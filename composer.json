@@ -1,0 +1,15 @@
+{
+  "name": "SDEV328/week-6",
+  "description": "Templating",
+  "minimum-stability": "stable",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Timothy fair",
+      "email": "darkmatterabbit2@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
